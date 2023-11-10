@@ -1,1 +1,1 @@
-# Diabetes_Classification_Pamela
+pip freeze > requirements.txt
